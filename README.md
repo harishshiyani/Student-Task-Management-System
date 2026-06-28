@@ -21,7 +21,7 @@ Student Portfolio Management System using PHP, HTML, CSS, JavaScript and MySQL
 2. Import the SQL file into MySQL.
 3. Copy the project to the htdocs folder.
 4. Start Apache and MySQL in XAMPP.
-5. Open http://localhost/Student-Portfolio-Management-System
+5. Open http://localhost/student_task_management
 
 ## Author
 Harish Shiyani
